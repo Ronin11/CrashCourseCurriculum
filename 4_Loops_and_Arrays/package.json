@@ -1,0 +1,25 @@
+{
+  "name": "crashcoursecurriculum",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+		"start": "node index.js",
+    "test": "node --experimental-vm-modules node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ronin11/CrashCourseCurriculum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ronin11/CrashCourseCurriculum/issues"
+  },
+	"transform": {},
+	"type": "module",
+  "homepage": "https://github.com/Ronin11/CrashCourseCurriculum#readme",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}

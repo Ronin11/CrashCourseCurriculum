@@ -5,8 +5,13 @@
 
 // These comments will have important information about the code so read through them carefully.
 
+/*
+* Our first module will be about basic variable assignment. A variable is just a fancy name for a place to store some value 
+* that's useful to your program. Assignment is a fancy name for setting the variable to the value you want.
+*/
 
-// For this exercise we will change a couple variables to pass the tests
+// Exercise 1: Change a couple variables to pass the tests
+// To run the tests run `npm test` in your console
 
 export function nameFunction(){
 	// You only need to modify this line to pass the tests
@@ -27,8 +32,7 @@ export function numberFunction(){
 }
 
 export function booleanFunction(){
-	// You only need to modify this line to pass the tests
-	let booleanVar = true;
+	// Add a line here to pass the tests
 
 	console.log("Number: ", booleanVar);
 
