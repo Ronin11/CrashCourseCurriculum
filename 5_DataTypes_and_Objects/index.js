@@ -70,7 +70,7 @@ export function canPurchase(userObject, purchase){
 
 // You can also put functions in an object
 // In Javascript there is a special keyword called "this"
-// "this" generally refers to the object it is apart of.(But "this" in JS is the single source of the the most bugs IMO.)
+// "this" generally refers to the object it is apart of.
 
 let car = {
 	"mpg": 30,
